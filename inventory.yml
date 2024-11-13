@@ -1,0 +1,5 @@
+anta_inventory:
+  hosts:
+    - host: 192.168.0.21
+      name: Leaf1
+      tags: ['leaf']
